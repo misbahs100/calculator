@@ -1,0 +1,28 @@
+
+
+.output{
+    margin-top: 30px;
+}
+.dd{
+   
+}
+.number{
+    padding: 50px;
+}
+
+.box{
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+    background-color: gray;
+    font-size: large;
+    font-weight: 900;
+}
+.box:hover{
+    background-color: rgb(212, 201, 149);
+}
+.result{
+    background-color: black;
+    color: white;
+    text-align: end;
+}
